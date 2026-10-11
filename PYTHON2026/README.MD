@@ -1,5 +1,6 @@
 # Python Assignment Notes
 
-**Prepared for:** Tusher Nikam
+Prepared for: Aditya Yelmar
 
 # Python2026
+
